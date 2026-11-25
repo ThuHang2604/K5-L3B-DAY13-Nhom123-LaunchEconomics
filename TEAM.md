@@ -13,7 +13,7 @@
 
 | STT | Họ tên | MSSV | Email | GitHub | Vai trò |
 | --: | ------ | ---- | ----- | ------ | ------- |
-|   1 | Đỗ Thị Thu Hằng | (điền MSSV) | (điền email) | ThuHang2604 | Cả bốn vai: người viết code, người kiểm số, người gắn nhãn, người giữ hồ sơ |
+|   1 | Đỗ Thị Thu Hằng | 2A202603840 | dothuhang2604@gmail.com | ThuHang2604 | Cả bốn vai: người viết code, người kiểm số, người gắn nhãn, người giữ hồ sơ |
 
 Bốn vai của lab:
 

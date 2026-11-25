@@ -5,7 +5,7 @@
 - Tên nhóm: Nhom123 
 - Lớp: L3B
 - Repo nhóm: `K5-L3B-DAY13-Nhom123-LaunchEconomics` (xem [SUBMISSION.md](SUBMISSION.md))
-- URL repo, nhánh nộp, commit chốt: https://github.com/ThuHang2604/K5-L3B-DAY13-Nhom123-LaunchEconomics · nhánh `main` · commit chốt: ghi sau khi push
+- URL repo, nhánh nộp, commit chốt: https://github.com/ThuHang2604/K5-L3B-DAY13-Nhom123-LaunchEconomics · nhánh `main` · commit chốt: 4c333d5
 
 > Lab thiết kế cho nhóm 4 người, nhưng bài này làm một mình. Một người đảm nhận cả bốn vai. Hai phần cần nhiều người không làm đúng như đề được, đã ghi rõ trong hồ sơ: gắn nhãn độc lập (C, xem `report/team/bang_loi.md`) và duyệt chéo Gate 2a (xem `report/team/phieu_cham.md`).
 
